@@ -1,3 +1,6 @@
 [submodule "HybridHarmony"]
 	path = HybridHarmony
 	url = https://github.com/RhythmsOfRelating/HybridHarmony.git
+[submodule "LabVisuals"]
+	path = LabVisuals
+	url = https://github.com/RhythmsOfRelating/LabVisuals.git
