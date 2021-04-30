@@ -1,0 +1,3 @@
+[submodule "HybridHarmony"]
+	path = HybridHarmony
+	url = https://github.com/RhythmsOfRelating/HybridHarmony.git
