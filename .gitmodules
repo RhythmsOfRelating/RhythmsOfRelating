@@ -4,3 +4,6 @@
 [submodule "LabVisuals"]
 	path = LabVisuals
 	url = https://github.com/RhythmsOfRelating/LabVisuals.git
+[submodule "LabRecorder"]
+	path = LabRecorder
+	url = https://github.com/labstreaminglayer/App-LabRecorder.git
