@@ -7,3 +7,6 @@
 [submodule "LabRecorder"]
 	path = LabRecorder
 	url = https://github.com/labstreaminglayer/App-LabRecorder.git
+[submodule "Archive"]
+	path = Archive
+	url = https://github.com/RhythmsOfRelating/Archive.git
